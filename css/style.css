@@ -1,0 +1,61 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: snow;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'M PLUS 1', sans-serif;
+    color: #2f2762;
+}
+
+p{
+    font-family: 'M PLUS 1', sans-serif;
+    color: #453a8d;
+}
+
+.foot{
+    background-color: #453a8d;
+}
+
+::-webkit-scrollbar{
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+    background: #5547b1;
+    border-radius: 12px;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #6a5acd;
+}
+
+.pmenor{
+    font-size: 0.9em;
+}
+
+.roxin{
+    color: #4b418a;
+}
+
+a:link {
+    color: blue;
+}
+  
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: #0000af;
+}
+
+a:active {
+    color: slateblue;
+}
